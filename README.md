@@ -48,8 +48,3 @@ Kendi çevre dostu davranışlarını fark etmek ve geliştirmek.
 Python uygulaması ile veri toplama, kaydetme ve görselleştirme süreçlerini öğrenmek.
 
 
-
-
-
-                                          <img width="1209" height="154" alt="image" src="https://github.com/user-attachments/assets/77005781-d6d1-4644-805c-a2f11a0576c0" />
-
